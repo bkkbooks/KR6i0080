@@ -1,0 +1,102 @@
+canonical_identifier: bkk:krp/KR6i0080/v1
+canonical_location: https://kanripo.org/bkk/KR6i0080/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:7cf5854f9b7b99617990762b56ca5289dd34e1992baf324bb7716157d9a4b2ee
+metadata:
+  title: 維摩經玄疏
+  identifiers:
+    alt_id:
+    - T38n1777
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/T/T38/T38n1777.xml
+    old_id: T38n1777
+  edition:
+    short: bkk
+editions:
+- short: 大
+  label: 大
+  source_xml_id: wit.orig
+- short: T
+assets:
+  parts:
+  - {seq: 0, filename: KR6i0080_000.yaml, hash: 'sha256:faf44b4d49815a6badbb3e85667cd752175370d88bd50989fb345c697befdece'}
+  - {seq: 1, filename: KR6i0080_001.yaml, hash: 'sha256:82a7e802e58096ba0be7dd7c1db427bb59276fe4a33831c9361021020902f397'}
+  - {seq: 2, filename: KR6i0080_002.yaml, hash: 'sha256:bbcc2593d9cfe109da1582479d5fe971bd51b66ce6716008bfe1767843838d40'}
+  - {seq: 3, filename: KR6i0080_003.yaml, hash: 'sha256:d1147835a5dacffaadb2bb49e647492ffa4e5e8bfffa283b32a4466819ca6a03'}
+  - {seq: 4, filename: KR6i0080_004.yaml, hash: 'sha256:965d1d0a8bfe5f82d56961b10456548f5c68a97bd6c93a0f45e2e4edcb7ab51a'}
+  - {seq: 5, filename: KR6i0080_005.yaml, hash: 'sha256:f4f52f9b73b562f0a325ce833bf939bcd5ba184a937a9ee246171e4446a5865d'}
+  - {seq: 6, filename: KR6i0080_006.yaml, hash: 'sha256:12fd459eea0fbccef443c30a7c1e6bc4946e833e9639086958d9e9b62d5b11a5'}
+  markers:
+  - {seq: 1, role: markers, filename: assets/KR6i0080_001.markers.yaml, hash: 'sha256:a4ab14c73a3cbdb8a4eb36f6ca2815a6a12fa7d3f871fb077ff723b9bb84cb46'}
+  - {seq: 2, role: markers, filename: assets/KR6i0080_002.markers.yaml, hash: 'sha256:8cf99cf0d4a982a2ef30381d4a4ec2b80e389bd1a85de0ce2442f111616eb931'}
+  - {seq: 3, role: markers, filename: assets/KR6i0080_003.markers.yaml, hash: 'sha256:7e33c47856c28b3c02f36c2f597570289018143f911fa85780d877702331e2a8'}
+  - {seq: 4, role: markers, filename: assets/KR6i0080_004.markers.yaml, hash: 'sha256:18422b90fded143ffff43dee19d7e5f42493aac0df19ab48d115ff6ab0f5fa05'}
+  - {seq: 5, role: markers, filename: assets/KR6i0080_005.markers.yaml, hash: 'sha256:669ab82ba1f8a9a5446386ac25dcc8566224f7033f8d6eefcf76bca9cea1374a'}
+  - {seq: 6, role: markers, filename: assets/KR6i0080_006.markers.yaml, hash: 'sha256:21114e93c1e034f9ee99b33425f7a375bee0df0f8ecf4fa282cabfeb452e59bc'}
+table_of_contents:
+- ref:
+    seq: 1
+    marker_id: KR6i0080_T_001-juan-start
+    span:
+    - body
+    - 0
+    - 7731
+  label: 維摩經玄疏卷第一
+  type: juan
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6i0080_T_002-juan-start
+    span:
+    - body
+    - 0
+    - 11657
+  label: 維摩經玄疏卷第二
+  type: juan
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR6i0080_T_003-juan-start
+    span:
+    - body
+    - 0
+    - 11864
+  label: 維摩經玄疏卷第三
+  type: juan
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR6i0080_T_004-juan-start
+    span:
+    - body
+    - 0
+    - 10432
+  label: 維摩經玄疏卷第四
+  type: juan
+  level: 1
+- ref:
+    seq: 5
+    marker_id: KR6i0080_T_005-juan-start
+    span:
+    - body
+    - 0
+    - 10284
+  label: 維摩經玄疏卷第五
+  type: juan
+  level: 1
+- ref:
+    seq: 6
+    marker_id: KR6i0080_T_006-juan-start
+    span:
+    - body
+    - 0
+    - 11751
+  label: 維摩經玄疏卷第六
+  type: juan
+  level: 1
+hash: sha256:fd51156b0ab9bd9e8dccc7fc7209d26f4cdabf22a3179f9255dc45a04d674722
+mappings:
+- canonical_identifier: bkk:mapping/variant-fold-v1
+  hash: sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e
