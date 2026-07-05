@@ -22,19 +22,20 @@ editions:
 assets:
   parts:
   - {seq: 0, filename: KR6i0080_000.yaml, hash: 'sha256:faf44b4d49815a6badbb3e85667cd752175370d88bd50989fb345c697befdece'}
-  - {seq: 1, filename: KR6i0080_001.yaml, hash: 'sha256:82a7e802e58096ba0be7dd7c1db427bb59276fe4a33831c9361021020902f397'}
-  - {seq: 2, filename: KR6i0080_002.yaml, hash: 'sha256:bbcc2593d9cfe109da1582479d5fe971bd51b66ce6716008bfe1767843838d40'}
-  - {seq: 3, filename: KR6i0080_003.yaml, hash: 'sha256:d1147835a5dacffaadb2bb49e647492ffa4e5e8bfffa283b32a4466819ca6a03'}
-  - {seq: 4, filename: KR6i0080_004.yaml, hash: 'sha256:965d1d0a8bfe5f82d56961b10456548f5c68a97bd6c93a0f45e2e4edcb7ab51a'}
-  - {seq: 5, filename: KR6i0080_005.yaml, hash: 'sha256:f4f52f9b73b562f0a325ce833bf939bcd5ba184a937a9ee246171e4446a5865d'}
-  - {seq: 6, filename: KR6i0080_006.yaml, hash: 'sha256:12fd459eea0fbccef443c30a7c1e6bc4946e833e9639086958d9e9b62d5b11a5'}
+  - {seq: 1, filename: KR6i0080_001.yaml, hash: 'sha256:1ec31fda48efbac140d6d40ff705d53d4d7c1192b84cd819d5092f2d98dc37a5'}
+  - {seq: 2, filename: KR6i0080_002.yaml, hash: 'sha256:4d5b9e5c08f9f4f3a1c45527b8477b515ac687ebc36cf54a64c18978cd2e6ffa'}
+  - {seq: 3, filename: KR6i0080_003.yaml, hash: 'sha256:7c3f0472f90d756c0798178c5f87c95181fd39bb98315587d5b83d5f6262e8ba'}
+  - {seq: 4, filename: KR6i0080_004.yaml, hash: 'sha256:af8003d61c23efc9d13ffad66dd27e4df9aa61d4ce5c8144d9204cf3b5750332'}
+  - {seq: 5, filename: KR6i0080_005.yaml, hash: 'sha256:07bd1d83c3f056ff2cf4265e1ade996bebe491f53bfb5836bb3fab430ef97787'}
+  - {seq: 6, filename: KR6i0080_006.yaml, hash: 'sha256:d34cefdba48bed1283f1fe74cf62d33ca041ab3e46b34dd28ee10f5f15ab8f34'}
   markers:
-  - {seq: 1, role: markers, filename: assets/KR6i0080_001.markers.yaml, hash: 'sha256:a4ab14c73a3cbdb8a4eb36f6ca2815a6a12fa7d3f871fb077ff723b9bb84cb46'}
-  - {seq: 2, role: markers, filename: assets/KR6i0080_002.markers.yaml, hash: 'sha256:8cf99cf0d4a982a2ef30381d4a4ec2b80e389bd1a85de0ce2442f111616eb931'}
-  - {seq: 3, role: markers, filename: assets/KR6i0080_003.markers.yaml, hash: 'sha256:7e33c47856c28b3c02f36c2f597570289018143f911fa85780d877702331e2a8'}
-  - {seq: 4, role: markers, filename: assets/KR6i0080_004.markers.yaml, hash: 'sha256:18422b90fded143ffff43dee19d7e5f42493aac0df19ab48d115ff6ab0f5fa05'}
-  - {seq: 5, role: markers, filename: assets/KR6i0080_005.markers.yaml, hash: 'sha256:669ab82ba1f8a9a5446386ac25dcc8566224f7033f8d6eefcf76bca9cea1374a'}
-  - {seq: 6, role: markers, filename: assets/KR6i0080_006.markers.yaml, hash: 'sha256:21114e93c1e034f9ee99b33425f7a375bee0df0f8ecf4fa282cabfeb452e59bc'}
+  - {seq: 0, role: markers, filename: assets/KR6i0080_000.markers.yaml, hash: 'sha256:cc9652274ba1fabe7b7ee705baa866237c60795d82266fbec2cbba04ff5fce9f'}
+  - {seq: 1, role: markers, filename: assets/KR6i0080_001.markers.yaml, hash: 'sha256:d518ba466849b12a3d00dc78e869d489112bf49b02ce340d816715dc99e26ccf'}
+  - {seq: 2, role: markers, filename: assets/KR6i0080_002.markers.yaml, hash: 'sha256:5157375ba12165068e4fd5d7c863130866db824a47a89edf713ab2ae2fdd9e62'}
+  - {seq: 3, role: markers, filename: assets/KR6i0080_003.markers.yaml, hash: 'sha256:78af672083065a0da3931a7fad00b7c5f887e0388b20ad0e131b8cebdfb6134d'}
+  - {seq: 4, role: markers, filename: assets/KR6i0080_004.markers.yaml, hash: 'sha256:2977425502ebfe531dba31f54fa885734e143825c87e39f854c1af5aa4b146a1'}
+  - {seq: 5, role: markers, filename: assets/KR6i0080_005.markers.yaml, hash: 'sha256:9fc299b58efa0139e6ac121f388356b162c76d6723a8f8d3c8a671d98ba8c406'}
+  - {seq: 6, role: markers, filename: assets/KR6i0080_006.markers.yaml, hash: 'sha256:483469a7708de074c7754b810e2c1d42d8dc1c68bcc43996027896653d384fa0'}
 table_of_contents:
 - ref:
     seq: 1
@@ -96,7 +97,4 @@ table_of_contents:
   label: 維摩經玄疏卷第六
   type: juan
   level: 1
-hash: sha256:fd51156b0ab9bd9e8dccc7fc7209d26f4cdabf22a3179f9255dc45a04d674722
-mappings:
-- canonical_identifier: bkk:mapping/variant-fold-v1
-  hash: sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e
+hash: sha256:d3c0ca4a950f25e98135d9a5297c9f6ce60245fc497d6f563404a5655f6f2f77
