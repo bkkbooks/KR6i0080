@@ -2,7 +2,7 @@ canonical_identifier: bkk:krp/KR6i0080/v1
 canonical_location: https://kanripo.org/bkk/KR6i0080/v1
 canonical_set:
   identifier: bkk:charset/cjk-v1
-  hash: sha256:7cf5854f9b7b99617990762b56ca5289dd34e1992baf324bb7716157d9a4b2ee
+  hash: sha256:37995e65f5e6cdc8cfbc980fea50ec86663e3e7de950809f7e37f003754b3227
 metadata:
   title: 維摩經玄疏
   identifiers:
@@ -22,20 +22,20 @@ editions:
 assets:
   parts:
   - {seq: 0, filename: KR6i0080_000.yaml, hash: 'sha256:faf44b4d49815a6badbb3e85667cd752175370d88bd50989fb345c697befdece'}
-  - {seq: 1, filename: KR6i0080_001.yaml, hash: 'sha256:1ec31fda48efbac140d6d40ff705d53d4d7c1192b84cd819d5092f2d98dc37a5'}
-  - {seq: 2, filename: KR6i0080_002.yaml, hash: 'sha256:4d5b9e5c08f9f4f3a1c45527b8477b515ac687ebc36cf54a64c18978cd2e6ffa'}
-  - {seq: 3, filename: KR6i0080_003.yaml, hash: 'sha256:7c3f0472f90d756c0798178c5f87c95181fd39bb98315587d5b83d5f6262e8ba'}
-  - {seq: 4, filename: KR6i0080_004.yaml, hash: 'sha256:af8003d61c23efc9d13ffad66dd27e4df9aa61d4ce5c8144d9204cf3b5750332'}
-  - {seq: 5, filename: KR6i0080_005.yaml, hash: 'sha256:07bd1d83c3f056ff2cf4265e1ade996bebe491f53bfb5836bb3fab430ef97787'}
-  - {seq: 6, filename: KR6i0080_006.yaml, hash: 'sha256:d34cefdba48bed1283f1fe74cf62d33ca041ab3e46b34dd28ee10f5f15ab8f34'}
+  - {seq: 1, filename: KR6i0080_001.yaml, hash: 'sha256:1d7452a3a438866e118fcf2a8a2dd1be46a843f21ce1e8c756955894f3dcdf2e'}
+  - {seq: 2, filename: KR6i0080_002.yaml, hash: 'sha256:549b1564b33a18b6e24d673fbeed38ee5fb1af008abb1fe21779478be120781b'}
+  - {seq: 3, filename: KR6i0080_003.yaml, hash: 'sha256:26591af7a9fb00797692847e4e2dc3c8e4c72a4712413571886a26e7de69fd88'}
+  - {seq: 4, filename: KR6i0080_004.yaml, hash: 'sha256:439bcccdfee59ed3f94055f4da9d7a50139c0ba3eec54367838086c456f9ab2f'}
+  - {seq: 5, filename: KR6i0080_005.yaml, hash: 'sha256:e1a15949b41c335fd34a490e43eab1d7c6da79c6f1ffdbeed5ddc1962e013f4c'}
+  - {seq: 6, filename: KR6i0080_006.yaml, hash: 'sha256:5d6a9499eb759f1f42393e69d42e72d1b99d76705d7f16cfd00899d01f0e623a'}
   markers:
   - {seq: 0, role: markers, filename: assets/KR6i0080_000.markers.yaml, hash: 'sha256:cc9652274ba1fabe7b7ee705baa866237c60795d82266fbec2cbba04ff5fce9f'}
-  - {seq: 1, role: markers, filename: assets/KR6i0080_001.markers.yaml, hash: 'sha256:d518ba466849b12a3d00dc78e869d489112bf49b02ce340d816715dc99e26ccf'}
-  - {seq: 2, role: markers, filename: assets/KR6i0080_002.markers.yaml, hash: 'sha256:5157375ba12165068e4fd5d7c863130866db824a47a89edf713ab2ae2fdd9e62'}
-  - {seq: 3, role: markers, filename: assets/KR6i0080_003.markers.yaml, hash: 'sha256:78af672083065a0da3931a7fad00b7c5f887e0388b20ad0e131b8cebdfb6134d'}
-  - {seq: 4, role: markers, filename: assets/KR6i0080_004.markers.yaml, hash: 'sha256:2977425502ebfe531dba31f54fa885734e143825c87e39f854c1af5aa4b146a1'}
-  - {seq: 5, role: markers, filename: assets/KR6i0080_005.markers.yaml, hash: 'sha256:9fc299b58efa0139e6ac121f388356b162c76d6723a8f8d3c8a671d98ba8c406'}
-  - {seq: 6, role: markers, filename: assets/KR6i0080_006.markers.yaml, hash: 'sha256:483469a7708de074c7754b810e2c1d42d8dc1c68bcc43996027896653d384fa0'}
+  - {seq: 1, role: markers, filename: assets/KR6i0080_001.markers.yaml, hash: 'sha256:73ae52cf45d064ce167364e31f03602a36bb3840149299434307c7bf06ecdfcb'}
+  - {seq: 2, role: markers, filename: assets/KR6i0080_002.markers.yaml, hash: 'sha256:cf48babf211c70b5590d57c7c519965e4078326f990139b77b52e8dbc1278b14'}
+  - {seq: 3, role: markers, filename: assets/KR6i0080_003.markers.yaml, hash: 'sha256:4d33a78dc97fd2b2f07999849276a44af419e7912f99179334653efb76157357'}
+  - {seq: 4, role: markers, filename: assets/KR6i0080_004.markers.yaml, hash: 'sha256:f85325bde0c71e1af90335e3b41074b0aa0939d349cabdfc011d101775f65eed'}
+  - {seq: 5, role: markers, filename: assets/KR6i0080_005.markers.yaml, hash: 'sha256:0b795b26e35d8301f3bd039270b82dfb034f1e27b22ef7258b806dd9ef1d2f2f'}
+  - {seq: 6, role: markers, filename: assets/KR6i0080_006.markers.yaml, hash: 'sha256:bed1cea47ef0603b561d8f3fa4c0c190d6be77cbbe5fdb55ced3748555fd9a96'}
 table_of_contents:
 - ref:
     seq: 1
@@ -97,4 +97,7 @@ table_of_contents:
   label: 維摩經玄疏卷第六
   type: juan
   level: 1
-hash: sha256:d3c0ca4a950f25e98135d9a5297c9f6ce60245fc497d6f563404a5655f6f2f77
+hash: sha256:f2ec7af8d80d49629dde5a3883dd269d56411e51d275054275aa0abd565f79d8
+mappings:
+- canonical_identifier: bkk:mapping/variant-fold-v1
+  hash: sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20
